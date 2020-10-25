@@ -1,5 +1,5 @@
 #### Faculty of Electrical Engineering, Sarajevo
-#### Numerical algorithms 2018/2019
+#### Software Development 2018/2019
 
 ---
 
